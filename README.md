@@ -89,3 +89,5 @@ This Toolchain uses Freeware and public Tools only
 
 KTX2 Conversion: [EzRyder MSFS 2024 KTX2 - PNG Texture Conversion](https://www.youtube.com/watch?v=-_y8enhqXi4)  
 Blender Basics: [bestdani Microsoft Flight Simulator (FS2020) - 3D Livery Painting for free!](https://www.youtube.com/watch?v=SZCe_x-V9co)
+VFS Projector: [MSFS 2024 VFS Projector and Server Files](https://www.youtube.com/watch?v=bdNqYiP_ie4)
+

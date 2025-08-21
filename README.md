@@ -50,7 +50,7 @@ This Toolchain uses Freeware and public Tools only
 3. .KTX2 Files are copied to OUTPUT directory
 
 ### Generate DDS files using Gimp
-1. Open existing .PNG.DDS file (helfs to load correct file config)
+1. Open existing .PNG.DDS file (helps to load correct file config)
 2. Apply Livery.png file onto White Texture Template (use Multiply Mode for Layer)
 3. Merge down all loayers
 4. Export as DDS File (File -> Export As ..., name .png.dds, select Compression BC3 / DXT5, Mipmaps: Genrate Mipmaps)

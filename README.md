@@ -2,7 +2,7 @@
 
 
 This Repo provides Links and Instructions for effective MSFS 2020 /2024 Livery creation.
-Please note this document does not describe the official process intended by Microsoft / Asobo but a Workflow used by several livery painters to exelarate the process.
+Please note this document does not describe the official process intended by Microsoft / Asobo but a Workflow used by several livery painters to accelerate the process.
 This Toolchain uses Freeware and public Tools only
 
 ## Used Tools

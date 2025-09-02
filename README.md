@@ -30,8 +30,8 @@ This Toolchain uses Freeware and public Tools only
 2. Enable Dev Mode (Settings -> Advanced -> Dev Mode on)
 3. Enable [VFS Projector](https://docs.flightsimulator.com/msfs2024/html/2_DevMode/Menus/Tools/The_Virtual_File_System.htm?agt=index) (Dev Pannel -> Tools -> VFS Projector)
 4. Navigate to VFS path in explorer (e.g.: "...\AppData\Roaming\Microsoft Flight Simulator 2024\VFSProjection\simobjects\airplanes")
-5. model con be found in common or in attachments/external
-6. Select and **COPY** external model.gltf, select lowest LOD possible (LOD0 might be locked), also copy any .bin file is present
+5. model can be found in common or in attachments/external
+6. Select and **COPY** external model.gltf, select lowest LOD possible (LOD0 might be locked), also copy any .bin file if present
 7. Import model.gltf file in Model Converter X, Export Model as MSFS2020 gltf format (new name e.g.: "model_2020.gltf")
 8. import model into blender using default GLTF support (**not msfs2blend**) (File -> import -> glTF 2.0 (.glb .gltf))
 9. repeat for all attachments until model is complete

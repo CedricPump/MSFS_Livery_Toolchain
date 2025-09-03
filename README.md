@@ -87,8 +87,15 @@ This Toolchain uses Freeware and public Tools only
 
 ## Usefull Videos and Tutorials:
 
-KTX2 Conversion: [EzRyder MSFS 2024 KTX2 - PNG Texture Conversion](https://www.youtube.com/watch?v=-_y8enhqXi4)  
-Blender Basics: [bestdani Microsoft Flight Simulator (FS2020) - 3D Livery Painting for free!](https://www.youtube.com/watch?v=SZCe_x-V9co)  
-VFS Projector: [MSFS 2024 VFS Projector and Server Files](https://www.youtube.com/watch?v=bdNqYiP_ie4)  
-https://www.youtube.com/watch?v=rjGJcNRonWo  
+KTX2 Conversion: 
+[EzRyder MSFS 2024 KTX2 - PNG Texture Conversion](https://www.youtube.com/watch?v=-_y8enhqXi4)  
+[Easy creation of KTX2 files for MSFS 2024 liveries - ImageToMSFSKTX2 script tutorial](https://www.youtube.com/watch?v=rjGJcNRonWo)  
+Blender Basics: 
+[bestdani Microsoft Flight Simulator (FS2020) - 3D Livery Painting for free!](https://www.youtube.com/watch?v=SZCe_x-V9co)  
+[LIVERY mit BLENDER erstellen ★ Microsoft FLIGHT SIMULATOR deutsch](https://www.youtube.com/watch?v=N1Cf2hZ7xFU) (german)
+VFS Projector: 
+[MSFS 2024 VFS Projector and Server Files](https://www.youtube.com/watch?v=bdNqYiP_ie4)  
+Livery Decal Layers: 
+[Chapter 4.1 | How to Make a Non-Mirroring Livery for MSFS | Blender 2.92 | Texture Method](https://www.youtube.com/watch?v=5hHa-HM-Luc)  
+
 

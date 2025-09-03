@@ -92,7 +92,7 @@ KTX2 Conversion:
 [Easy creation of KTX2 files for MSFS 2024 liveries - ImageToMSFSKTX2 script tutorial](https://www.youtube.com/watch?v=rjGJcNRonWo)  
 Blender Basics:  
 [bestdani Microsoft Flight Simulator (FS2020) - 3D Livery Painting for free!](https://www.youtube.com/watch?v=SZCe_x-V9co)  
-[LIVERY mit BLENDER erstellen ★ Microsoft FLIGHT SIMULATOR deutsch](https://www.youtube.com/watch?v=N1Cf2hZ7xFU) (german)
+[LIVERY mit BLENDER erstellen ★ Microsoft FLIGHT SIMULATOR deutsch](https://www.youtube.com/watch?v=N1Cf2hZ7xFU) (german)  
 VFS Projector:  
 [MSFS 2024 VFS Projector and Server Files](https://www.youtube.com/watch?v=bdNqYiP_ie4)  
 Livery Decal Layers:  

@@ -98,4 +98,7 @@ VFS Projector:
 Livery Decal Layers:  
 [Chapter 4.1 | How to Make a Non-Mirroring Livery for MSFS | Blender 2.92 | Texture Method](https://www.youtube.com/watch?v=5hHa-HM-Luc)  
 
+Check out [EzRider Discord The Light Crew Lounge](https://discord.gg/8cNAzGPz)  
+[link-resourecs collection](https://discord.com/channels/230752619377852417/1318415602809049109)  
 
+not tested: [2020 to 2024 Livery Converter](https://flightsim.to/file/89849/2020-to-2024-livery-converter)  
